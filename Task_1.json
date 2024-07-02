@@ -1,0 +1,8 @@
+{
+    "name": "Yash Shah",
+    "message": "Hello, Nice to meet you!",
+    "age": 2,
+    "pi": 3.14159,
+    "isStudent": false,
+    "likesPizza": true
+}

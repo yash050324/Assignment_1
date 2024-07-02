@@ -1,0 +1,31 @@
+{
+    "favouriteMovies": [
+        "Zindagi na milegi Doobara",
+        "3 Idiots",
+        "Inception"
+    ],
+    "courseSchedule": {
+        "courses": [
+            {
+                "name": "Blockchain",
+                "instructor": "Dhiren patel",
+                "credits": 3,
+                "meetingTimes": [
+                    "Tuesday 10:30 AM",
+                    "Thrusday 11:00 AM",
+                    "Thrusday 11:30 AM"
+                ]
+            },
+            {
+                "name": "Blockchain",
+                "instructor": "Dhiren patel",
+                "credits": 3,
+                "meetingTimes": [
+                    "Tuesday 10:30 AM",
+                    "Thrusday 11:00 AM",
+                    "Thrusday 11:30 AM"
+                ]
+            }
+        ]
+    }
+}

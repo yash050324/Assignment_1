@@ -1,0 +1,15 @@
+{
+    "student": {
+        "name": "Yash Shah",
+        "age": 21,
+        "major": "Maths Science",
+        "hasCompletedIntroToCS": true
+    },
+    "book": {
+        "title": "Make Epic money",
+        "author": "Ankur Warikoo",
+        "genre": "Self-Help Book",
+        "yearPublished": 2024,
+        "isRecommended": true
+    }
+}
